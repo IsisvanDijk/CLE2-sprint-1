@@ -1,0 +1,56 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+
+html {
+    background-color: #24122D;
+}
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+main {
+    height: 100vh;
+}
+
+.navbar {
+    background-color: #9BC2C1;
+    border-bottom: #14153F solid 3px;
+}
+
+.navbar-item {
+    color: #14153F;
+}
+
+a.navbar-item {
+    font-size: 20px;
+}
+
+.navbar-item img {
+    max-height: 12vh;
+}
+
+.purple-bg {
+    background-color: #C44548;
+    border-radius: 0rem 7rem 7rem 0rem;
+}
+
+h1.title {
+    color: whitesmoke;
+}
+
+h2.subtitle {
+    color: whitesmoke;
+}
+
+.button {
+    background-color: #981C40;
+    border-color: #981C40;
+    color: white;
+}
+
+.footer {
+    background-color: #9BC2C1;
+    border-top: #14153F solid 3px;
+    color: #14153F;
+    padding: 1.5rem;
+}
